@@ -8,7 +8,12 @@
   "author": "zeng",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-less": "^3.3.2",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-uglify": "^3.0.0"
   },
   "description": ""
 }
