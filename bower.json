@@ -1,0 +1,23 @@
+{
+  "name": "gewala",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "zeng"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+	"angular": "1.5.11",
+    "angular-route":"1.5.11",
+    "angular-animate": "1.5.11"
+  }
+}

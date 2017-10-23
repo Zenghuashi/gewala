@@ -1,0 +1,109 @@
+#SelectM {
+  /*顶部栏*/
+  /*影院信息*/
+  /*电影信息*/
+  /*时间场次*/
+}
+#SelectM #header {
+  width: 100%;
+  height: 46px;
+  background-color: #f26522;
+  line-height: 46px;
+  position: relative;
+  text-align: center;
+}
+#SelectM #header .retu {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+#SelectM #header a {
+  text-decoration: none;
+  color: #ffffff;
+  display: inline-block;
+  line-height: 46px;
+  text-align: center;
+  font-size: 18px;
+}
+#SelectM .dropdown {
+  float: right;
+}
+#SelectM .dropdown-menu {
+  background-color: #f2620f;
+  height: 85px;
+  border: #f2620f;
+  margin: 0;
+  border-radius: 0;
+  min-width: 10%;
+}
+#SelectM .dropdown-menu li,
+#SelectM .dropdown-menu img {
+  background-color: #f2620f;
+}
+#SelectM .dropdown-menu a:hover {
+  background-color: #f26522 ;
+}
+#SelectM #detial {
+  height: 69px;
+  width: 100%;
+  border-bottom: dashed 1px #cccccc;
+}
+#SelectM #detial a {
+  display: inline-block;
+  color: #000000;
+  margin: 12px 21px 0;
+}
+#SelectM #detial div {
+  float: left;
+  height: 66px;
+}
+#SelectM #link_detial img {
+  margin-bottom: 23px;
+}
+#SelectM .nav-tabs {
+  width: 100%;
+  height: 51px;
+}
+#SelectM .nav-tabs li,
+#SelectM .nav-tabs li a {
+  width: 121px;
+  height: 36px;
+  margin-top: 3px;
+  color: #000000;
+}
+#SelectM #movieContent .title span {
+  color: #f26422;
+  font-weight: bold;
+  margin-left: 15px;
+}
+#SelectM table {
+  width: 100%;
+}
+#SelectM td {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+#SelectM .jq {
+  color: #f26422;
+  font-weight: bold;
+}
+#SelectM .sc {
+  border-radius: 15px;
+  background-color: #d8d8d8;
+  width: 70px;
+  text-align: center;
+  font-size: 11px;
+  margin-left: -5px;
+}
+#SelectM .nav-tabs > li.active > a,
+#SelectM .nav-tabs > li.active > a:hover,
+#SelectM .nav-tabs > li.active > a:focus {
+  color: #FFFFFF;
+  cursor: default;
+  border: 1px solid #ddd;
+  background-color: #FF5722;
+  border-bottom-color: transparent;
+  border-radius: 22px;
+}

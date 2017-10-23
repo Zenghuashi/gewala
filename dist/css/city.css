@@ -1,0 +1,31 @@
+.ci_city h2 {
+  font-size: 17px;
+  padding-left: 5%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.ci_city table {
+  width: 100%;
+}
+.ci_city table td {
+  border: 1px solid #beb7b6;
+  background-color: white;
+  width: 25%;
+  height: 40px;
+  text-align: center;
+}
+.ci_city table td a {
+  font-size: 14px;
+  text-decoration: none;
+  color: black;
+}
+.ci_city .zm tr td {
+  width: 16%;
+}
+#ci_footer {
+  padding-top: 50px;
+  text-align: center;
+}
+#ci_footer p {
+  padding-top: 10px;
+}
